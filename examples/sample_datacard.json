@@ -1,0 +1,18 @@
+{
+  "topic": "Consensus Knowledge Refinery",
+  "claim": "A pre-training refinement layer may improve knowledge density by filtering, clustering, and scoring extracted claims before model training.",
+  "answer": "CKR proposes using multi-agent review, semantic clustering, consensus scoring, provenance tracking, and audit workflows to create a refined corpus for future model-training experiments.",
+  "confidence": 0.72,
+  "rarity": "medium",
+  "status": "needs_review",
+  "safety": {
+    "level": "low_risk",
+    "notes": "Research-methodology claim; requires empirical validation before performance claims."
+  },
+  "provenance": {
+    "source": "Consensus Knowledge Refinery preprint",
+    "doi": "10.5281/zenodo.20760380",
+    "author": "Akash Pawar",
+    "version": "Research Proposal v1.0"
+  }
+}
